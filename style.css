@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+#Naruto{
+    width: 400px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 20%;
+}
